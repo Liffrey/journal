@@ -3,4 +3,4 @@
     - Binay Trees
       - Binary Search Trees
   ## Daily Leetcode challenge
-    - https://leetcode.com/problems/climbing-stairs/
+    	[https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)
