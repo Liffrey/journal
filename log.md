@@ -2,9 +2,12 @@
   ## Trees 
    - Binay Trees
      - Binary Search Trees
-        > [https://www.youtube.com/watch?v=oSWTXtMglKE](https://www.youtube.com/watch?v=oSWTXtMglKE)
-        > [https://www.youtube.com/watch?v=RBSGKlAvoiM&t=3508s](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=3508s)
-        > [https://www.youtube.com/watch?v=B31LgI4Y4DQ](https://www.youtube.com/watch?v=B31LgI4Y4DQ)
-        > [https://www.youtube.com/watch?v=fAAZixBzIAI](https://www.youtube.com/watch?v=fAAZixBzIAI)
+        > https://www.youtube.com/watch?v=oSWTXtMglKE
+        > 
+        > https://www.youtube.com/watch?v=RBSGKlAvoiM&t=3508s
+        > 
+        > https://www.youtube.com/watch?v=B31LgI4Y4DQ
+        > 
+        > https://www.youtube.com/watch?v=fAAZixBzIAI
   ## Daily Leetcode challenge
-  > [https://leetcode.com/problems/climbing-stairs/](https://leetcode.com/problems/climbing-stairs/)
+  > https://leetcode.com/problems/climbing-stairs/
