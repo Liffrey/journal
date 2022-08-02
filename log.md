@@ -1,6 +1,6 @@
 # 31/07/2022
   ## Trees 
-   - Binay Trees
+   - Binary Trees
      - Binary Search Trees
         > https://www.youtube.com/watch?v=oSWTXtMglKE
         > 
