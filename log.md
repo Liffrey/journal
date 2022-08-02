@@ -11,3 +11,9 @@
         > https://www.youtube.com/watch?v=fAAZixBzIAI
   ## Daily Leetcode challenge
   > https://leetcode.com/problems/binary-tree-preorder-traversal
+
+
+# 3/08/2022
+   ## Daily Leetcode challenge
+   > https://leetcode.com/problems/binary-tree-inorder-traversal
+   > https://leetcode.com/problems/binary-tree-postorder-traversal
