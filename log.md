@@ -18,3 +18,11 @@
    > https://leetcode.com/problems/binary-tree-inorder-traversal
    > 
    > https://leetcode.com/problems/binary-tree-postorder-traversal
+
+# 08/08/2022
+   ## Daily Leetcode challenge
+   >https://leetcode.com/problems/binary-tree-level-order-traversal/
+
+# 10/08/2022
+   ## Daily Leetcode challenge
+   >https://leetcode.com/problems/maximum-depth-of-binary-tree/
