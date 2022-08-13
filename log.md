@@ -26,3 +26,7 @@
 # 10/08/2022
    ## Daily Leetcode challenge
    >https://leetcode.com/problems/maximum-depth-of-binary-tree/
+
+# 14/08/2022
+   ## Daily Leetcode challenge
+   >https://leetcode.com/problems/symmetric-tree/
