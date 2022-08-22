@@ -33,6 +33,7 @@
 
 # 18/08/2022
    ## OpenGL & GLFW
+   Introduce
    >(https://learnopengl.com/Getting-started/Hello-Window)
 
 # 20/08/2022
@@ -40,3 +41,18 @@
   >https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/
   >
   >https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+
+# 23/08/2022
+  ## Daily Leetcode challenge
+  >https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+
+   ## OpenGL & GLFW
+   >https://learnopengl.com/Getting-started/Hello-Window 
+  Hello Window 
+  
+  
+  
+
+
+
+
