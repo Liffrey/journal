@@ -33,7 +33,7 @@
 
 # 18/08/2022
    ## OpenGL & GLFW
-   Introduce
+   Introduce OpenGL
    >(https://learnopengl.com/Getting-started/Hello-Window)
 
 # 20/08/2022
@@ -47,8 +47,9 @@
   >https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
 
    ## OpenGL & GLFW
+   Hello Window
    >https://learnopengl.com/Getting-started/Hello-Window 
-  Hello Window 
+ 
   
   
   
