@@ -34,7 +34,7 @@
 # 18/08/2022
    ## OpenGL & GLFW
    Introduce OpenGL
-   >(https://learnopengl.com/Getting-started/Hello-Window)
+   >https://learnopengl.com/Getting-started/Creating-a-window
 
 # 20/08/2022
   ## Daily Leetcode challenge
