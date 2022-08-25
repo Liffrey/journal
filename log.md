@@ -49,6 +49,11 @@
    ## OpenGL & GLFW
    Hello Window
    >https://learnopengl.com/Getting-started/Hello-Window 
+
+# 25/08/2022
+  ## OpenGL & GLFW
+  Hello Triangel
+  >https://learnopengl.com/Getting-started/Hello-Triangle
  
   
   
