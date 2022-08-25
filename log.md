@@ -52,7 +52,7 @@
 
 # 25/08/2022
   ## OpenGL & GLFW
-  Hello Triangel
+  Hello Triangle
   >https://learnopengl.com/Getting-started/Hello-Triangle
  
   
