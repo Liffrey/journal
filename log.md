@@ -44,7 +44,7 @@
 
 # 23/08/2022
   ## Daily Leetcode challenge
-  >https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+  >https://leetcode.com/problems/number-of-1-bits
 
    ## OpenGL & GLFW
    Hello Window
@@ -54,14 +54,17 @@
   ## OpenGL & GLFW
   Hello Triangle
   >https://learnopengl.com/Getting-started/Hello-Triangle
+  
+  ## Daily Leetcode challenge
+  >https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer
  
  # 04/09/2022
   ## OpenGL & GLFW
   Shaders
-  >https://learnopengl.com/Getting-started/Hello-Triangle
+  >https://learnopengl.com/Getting-started/Shaders
   
   ## Daily Leetcode challenge
-  >https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
+  >https://leetcode.com/problems/largest-perimeter-triangle
   
   
 
