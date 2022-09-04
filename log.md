@@ -55,7 +55,13 @@
   Hello Triangle
   >https://learnopengl.com/Getting-started/Hello-Triangle
  
+ # 04/09/2022
+  ## OpenGL & GLFW
+  Shaders
+  >https://learnopengl.com/Getting-started/Hello-Triangle
   
+  ## Daily Leetcode challenge
+  >https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/
   
   
 
