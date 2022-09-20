@@ -66,6 +66,13 @@
   ## Daily Leetcode challenge
   >https://leetcode.com/problems/largest-perimeter-triangle
   
+ # 10/09/2022 
+  ## Study C++
+  >https://www.learncpp.com/cpp-tutorial/introduction-to-compound-data-types/
+  
+ # 21/09/2022  
+  ## Daily Leetcode challenge
+  >https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/?envType=study-plan&id=programming-skills-i
   
 
 
