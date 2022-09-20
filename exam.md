@@ -1,5 +1,5 @@
 
-Study project for ILETS
+Study for ILETS
 
 | Study Started | Last Update | Book |
 | :-------------- | :----------  | :-----: | 
