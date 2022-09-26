@@ -69,6 +69,8 @@
  # 10/09/2022 
   ## Study C++
   >https://www.learncpp.com/cpp-tutorial/introduction-to-compound-data-types/
+  >
+  >9.Compound Types: References and Pointers
 
   #15/09/2022 
   ## Study C++
