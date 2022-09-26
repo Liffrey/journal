@@ -69,11 +69,18 @@
  # 10/09/2022 
   ## Study C++
   >https://www.learncpp.com/cpp-tutorial/introduction-to-compound-data-types/
+
+  #15/09/2022 
+  ## Study C++
+  >10.Compound Types: Enums and Structs
   
- # 21/09/2022  
+ # 26/09/2022  
   ## Daily Leetcode challenge
   >https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/?envType=study-plan&id=programming-skills-i
   
+  # 27/09/2022  
+  ## Daily Leetcode challenge
+  >https://leetcode.com/problems/sign-of-the-product-of-an-array/?envType=study-plan&id=programming-skills-i
 
 
 
