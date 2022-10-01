@@ -1,3 +1,7 @@
+# 01/10/2022  
+## Daily Leetcode Challenge
+  - [can-make-arithmetic-progression-from-sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)
+ 
 # 27/09/2022  
 ## Daily Leetcode Challenge
   - [sign-of-the-product-of-an-array](https://leetcode.com/problems/sign-of-the-product-of-an-array/?envType=study-plan&id=programming-skills-i)
