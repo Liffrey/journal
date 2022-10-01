@@ -26,7 +26,7 @@
   >https://learnopengl.com/Getting-started/Shaders
   
 ## Daily Leetcode Challenge
-  >[largest-perimeter-triangle](https://leetcode.com/problems/largest-perimeter-triangle)
+  - [largest-perimeter-triangle](https://leetcode.com/problems/largest-perimeter-triangle)
   
 # 25/08/2022
 ## OpenGL & GLFW
@@ -69,9 +69,9 @@
 
 # 02/08/2022
 ## Daily Leetcode Challenge
-   > [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
-   > 
-   > [binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)
+   - [binary-tree-inorder-traversal](https://leetcode.com/problems/binary-tree-inorder-traversal)
+   
+   - [binary-tree-postorder-traversal](https://leetcode.com/problems/binary-tree-postorder-traversal)
 
 # 31/07/2022
 ## Trees 
@@ -88,4 +88,4 @@ Binary Search Trees
 - https://www.youtube.com/watch?v=fAAZixBzIAI
   
 ## Daily Leetcode Challenge
-  > [binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)
+  - [binary-tree-preorder-traversal](https://leetcode.com/problems/binary-tree-preorder-traversal)
