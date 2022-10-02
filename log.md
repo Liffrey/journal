@@ -1,3 +1,7 @@
+# 02/10/2022  
+## Daily Leetcode Challenge
+  - [happy-number](https://leetcode.com/problems/happy-number/)
+
 # 01/10/2022  
 ## Daily Leetcode Challenge
   - [can-make-arithmetic-progression-from-sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence)
