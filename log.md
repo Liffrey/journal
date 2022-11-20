@@ -1,3 +1,7 @@
+# 20/11/2022  
+## Daily Leetcode Challenge
+  -[N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/description/)
+
 # 02/10/2022  
 ## Daily Leetcode Challenge
   - [happy-number](https://leetcode.com/problems/happy-number/)
